@@ -1,0 +1,8 @@
+{
+    "mcpServers":{
+        "buscar_wikipedia-sse":{
+            "url": "http://localhost:8000/sse",
+            "description": "Um servidor de MCP remoto que faz uma busca na Wikipedia e retorna um resumo do principal resultado"
+        }
+    }
+}

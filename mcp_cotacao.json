@@ -1,0 +1,8 @@
+{
+    "mcpServers":{
+        "buscar_cotacao_moeda":{
+            "url": "http://localhost:8000/sse",
+            "description": "Um servidor de MCP remoto que retorna a cotação das principais moedas em reais"
+        }
+    }
+}

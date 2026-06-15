@@ -1,0 +1,9 @@
+fastmcp
+yfinance
+flet
+streamlit
+requests
+openai
+gradio
+python-dotenv
+wikipedia

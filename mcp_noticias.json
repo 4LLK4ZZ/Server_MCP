@@ -1,0 +1,8 @@
+{
+    "mcpServers":{
+        "buscar_noticias_google":{
+            "url": "http://localhost:8000/sse",
+            "description": "Um servidor de MCP remoto que faz uma busca nas últimas notícias da Newsletter do Google"
+        }
+    }
+}
